@@ -8,7 +8,7 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "main.cpp","-o", "a" ,"-lGLEW","-lglfw3", "-ldl", "-lX11", "-lXrandr", "-lXinerama", "-lXi" ,"-lXxf86vm", "-lXcursor", "-lpthread", "-lglfw3", "-lGL"
+                "-g", "src/main.cpp","-o", "a" ,"-lGLEW","-lglfw3", "-ldl", "-lX11", "-lXrandr", "-lXinerama", "-lXi" ,"-lXxf86vm", "-lXcursor", "-lpthread", "-lglfw3", "-lGL"
             ],
             "group": {
                 "kind": "build",

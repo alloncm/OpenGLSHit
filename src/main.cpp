@@ -50,7 +50,7 @@ int main(void)
         /* Render here */
         glClear(GL_COLOR_BUFFER_BIT);
        
-        
+        std::cout<<"running"<<std::endl;
         glDrawArrays(GL_TRIANGLES,0,3);
         
         /* Swap front and back buffers */
