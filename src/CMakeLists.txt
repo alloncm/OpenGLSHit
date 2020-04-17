@@ -6,7 +6,7 @@ set (PROJECT_NAME learn)
 project(${PROJECT_NAME})
 
 add_executable(${PROJECT_NAME}
-    ${CMAKE_CURRENT_SOURCE_DIR}/main.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
 )
 
 #OpenGL
