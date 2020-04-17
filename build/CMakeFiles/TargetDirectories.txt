@@ -1,0 +1,3 @@
+D:/Documnets/projects/opengl/build/CMakeFiles/learn.dir
+D:/Documnets/projects/opengl/build/CMakeFiles/ALL_BUILD.dir
+D:/Documnets/projects/opengl/build/CMakeFiles/ZERO_CHECK.dir
