@@ -1,4 +1,0 @@
-[submodule "vcpkg"]
-	path = vcpkg
-	url = https://github.com/alloncm/vcpkg.git
-	branch = my_vcpkg

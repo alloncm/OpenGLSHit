@@ -1,4 +1,2 @@
-mkdir build
-cd build
-cmake ../src -DVCPKG_TARGET_TRIPLET=x64-windows
+cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
 cmake --build .
